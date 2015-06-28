@@ -12,13 +12,18 @@
   float: right; }*/
 /* Jekyll Bootstrap Colors */
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     color: #CA3B44;
 }
+
 #footer {
     padding-top: 20px;
     background-color: #ffffff;
 }
+
 #footer .cp {
     text-align: center;
 }
@@ -28,11 +33,13 @@ h1, h2, h3, h4 {
     position: relative;
     padding-top: 10px;
 }
+
 .post > h3.title span.date {
     position: absolute;
     right: 0;
     font-size: 0.9em;
 }
+
 .post > .more {
     margin: 10px 0;
     text-align: left;
@@ -50,15 +57,19 @@ h1, h2, h3, h4 {
     margin: 0;
     overflow: hidden;
 }
+
 .tag_box li {
     line-height: 28px;
 }
+
 .tag_box li i {
     opacity: 0.9;
 }
+
 .tag_box.inline li {
     float: left;
 }
+
 .tag_box a {
     padding: 3px 6px;
     margin: 2px;
@@ -68,13 +79,16 @@ h1, h2, h3, h4 {
     text-decoration: none;
     border: 1px dashed #cccccc;
 }
+
 .tag_box a span {
     vertical-align: super;
     font-size: 0.8em;
 }
+
 .tag_box a:hover {
     background-color: #e5e5e5;
 }
+
 .tag_box a.active {
     background: #57A957;
     border: 1px solid #4c964d;
@@ -87,6 +101,7 @@ h1, h2, h3, h4 {
     -moz-transform: scale(1.1);
     -o-transform: scale(1.1);
 }
+
 #social {
     -webkit-transform: scale(0.8);
     /* Browser Variations: */
@@ -108,6 +123,7 @@ h1, h2, h3, h4 {
     margin-bottom: 25px;
     -webkit-font-smoothing: antialiased;
 }
+
 .footerinfo {
     font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
     font-weight: 400;
@@ -118,6 +134,7 @@ h1, h2, h3, h4 {
     margin-right: 80px;
     -webkit-font-smoothing: antialiased;
 }
+
 .footerinfosmall {
     font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
     font-weight: 400;
@@ -127,6 +144,7 @@ h1, h2, h3, h4 {
     margin-top: 10px;
     -webkit-font-smoothing: antialiased;
 }
+
 .addresstext {
     font-size: 16px;
     line-height: 1.3;
@@ -134,6 +152,7 @@ h1, h2, h3, h4 {
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
 }
+
 .addressitalic {
     font-size: 16px;
     line-height: 1.2;
@@ -151,21 +170,27 @@ Only Needed in Multi-Coloured Variation
 .social-fb:hover {
     color: #3B5998;
 }
+
 .social-tw:hover {
     color: #59ADEC;
 }
+
 .social-ph:hover {
     color: #4099FF;
 }
+
 .social-wb:hover {
     color: #d34836;
 }
+
 .social-em:hover {
     color: #f39c12;
 }
+
 .wechat {
     color: #63A52E;
 }
+
 .projectcredithead {
     font-family: "proxima-nova", Helvetica, Arial, sans-serif;
     font-weight: 700;
@@ -174,6 +199,7 @@ Only Needed in Multi-Coloured Variation
     letter-spacing: 0.12em;
     -webkit-font-smoothing: antialiased;
 }
+
 @media (max-width: 992px) {
     #footer {
         text-align: center;
@@ -186,6 +212,7 @@ Only Needed in Multi-Coloured Variation
         margin-right: 10px;
     }
 }
+
 .img-responsive {
     margin: 0 auto;
     width: 80%;
@@ -197,6 +224,7 @@ Only Needed in Multi-Coloured Variation
     list-style: none;
     padding: 0px;
 }
+
 .thumb {
     width: 450px;
     height: 300px;
@@ -211,6 +239,7 @@ Only Needed in Multi-Coloured Variation
     display: block;
     float: left;
 }
+
 @media screen and (max-width: 790px) {
     .thumb {
         float: none;
@@ -222,6 +251,7 @@ Only Needed in Multi-Coloured Variation
 .newslist li {
     border-bottom: 1px #ddd solid;
 }
+
 .meta {
     color: #888;
 }
@@ -231,7 +261,9 @@ Only Needed in Multi-Coloured Variation
 .newslist h1 {
     color: inherit;
 }
-.newslist a:hover, .newslist a h1:hover {
+
+.newslist a:hover,
+.newslist a h1:hover {
     color: #d40;
     text-decoration: none;
 }
@@ -242,17 +274,9 @@ Only Needed in Multi-Coloured Variation
     display: block;
 }
 
-
-
-
-
-
 .navbar .nav > li:hover .dropdown-menu {
     display: block;
 }
-
-
-
 
 .contacticon {
     color: #428bca;
@@ -263,6 +287,7 @@ Only Needed in Multi-Coloured Variation
     -moz-transform: scale(1.3);
     -o-transform: scale(1.3);
 }
+
 #contacticon {
     -webkit-transform: scale(1);
     /* Browser Variations: */
@@ -274,195 +299,227 @@ Only Needed in Multi-Coloured Variation
     -o-transition-duration: 0.5s;
 }
 
+.box {
+    border: 5px solid #fff;
+    cursor: pointer;
+    height: 182px;
+    float: left;
+    margin: 5px;
+    position: relative;
+    overflow: hidden;
+    width: 200px;
+    -webkit-box-shadow: 1px 1px 1px 1px #ccc;
+    -moz-box-shadow: 1px 1px 1px 1px #ccc;
+    box-shadow: 1px 1px 1px 1px #ccc;
+}
 
+.box img {
+    position: absolute;
+    left: 0;
+    -webkit-transition: all 300ms ease-out;
+    -moz-transition: all 300ms ease-out;
+    -o-transition: all 300ms ease-out;
+    -ms-transition: all 300ms ease-out;
+    transition: all 300ms ease-out;
+}
+
+#mengban {
+    opacity: 0;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: #42B9D5;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 50%;
+    padding-left: 8%;
+    -webkit-transition: all 300ms ease-out;
+    -moz-transition: all 300ms ease-out;
+    -o-transition: all 300ms ease-out;
+    -ms-transition: all 300ms ease-out;
+    transition: all 300ms ease-o
+}
+
+#mengban:hover {
+    opacity: 1;
+}
 
 .my-gallery {
-    height:150px;
-    width:150px;
+    height: 150px;
+    width: 150px;
     background-position: center;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
-    display:inline-block;
+    display: inline-block;
     border: 5px solid #ffffff;
 }
 
-
-.gallery-title{
+.gallery-title {
     padding-top: 40px;
     padding-bottom: 40px;
     text-align: center;
 }
 
-.videos{
+.videos {
     text-align: center;
     padding-bottom: 60px;
     padding-top: 20px;
 }
 
-.galcontainer{
+.galcontainer {
     padding-top: 20px;
     padding-bottom: 60px;
 }
 
-
-
-
 ul.img-list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
- 
-ul.img-list li {
-  display: inline-block;
-  height: 150px;
-  margin: 0 0.5em 0.5em 0;
-  position: relative;
-  width: 150px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
- 
+ul.img-list li {
+    display: inline-block;
+    height: 150px;
+    margin: 0 0.5em 0.5em 0;
+    position: relative;
+    width: 150px;
+}
+
 span.text-content span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
 }
 
 ul.img-list li:hover span.text-content {
-  opacity: 1;
+    opacity: 1;
 }
 
 span.text-content {
-  background: rgba(0,0,0,0.8);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 150px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 150px;
-  opacity: 0;
-  -webkit-transition: opacity 500ms;
-  -moz-transition: opacity 500ms;
-  -o-transition: opacity 500ms;
-  transition: opacity 500ms;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    cursor: pointer;
+    display: table;
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 150px;
+    opacity: 0;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
 }
 
-
-
 span.text-class {
-  color: black;
-  cursor: pointer;
-  display: table;
-  height: 150px;
-  left: 25px;
-  position: absolute;
-  top: 0;
-  width: 130px;
-  -webkit-transition: opacity 500ms;
-  -moz-transition: opacity 500ms;
-  -o-transition: opacity 500ms;
-  transition: opacity 500ms;
+    color: black;
+    cursor: pointer;
+    display: table;
+    height: 150px;
+    left: 25px;
+    position: absolute;
+    top: 0;
+    width: 130px;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
 }
 
 span.text-class span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
 }
 
-
-
-.homeclasses{
-    height:150px;
-    width:150px;
+.homeclasses {
+    height: 150px;
+    width: 150px;
     background-position: center;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
-    display:inline-block;
+    display: inline-block;
     border: 5px solid #ffffff;
     vertical-align: middle;
 }
 
-
-.homeclasses:hover{
+.homeclasses:hover {
     background-color: red;
-} 
-
-
-.box
-{
-  padding: 2em;
-}
-.box
-{
-  background: #fff;
-  box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.15), 0px 2px 3px 0px rgba(0,0,0,0.1);
-  text-align: center;
 }
 
-.box.style h3
-{
-  margin-bottom: 0.25em;
+.box {
+    padding: 2em;
 }
 
-.box.style .image
-{
-  position: relative;
-  left: 2em;
-  top: 2em;
-  margin: -4em 0 4em -4em;
-  width: auto;
+.box {
+    background: #fff;
+    box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
+.box.style h3 {
+    margin-bottom: 0.25em;
+}
+
+.box.style .image {
+    position: relative;
+    left: 2em;
+    top: 2em;
+    margin: -4em 0 4em -4em;
+    width: auto;
+}
 
 .image {
     display: inline-block;
     position: relative;
 }
+
 .image img {
     display: block;
     width: 100%;
 }
+
 .image.fit {
     display: block;
     width: 100%;
 }
+
 .image.featured {
     display: block;
     width: 100%;
     margin: 0 0 2em 0;
 }
+
 .image.left {
     float: left;
     margin: 0 2em 2em 0;
 }
+
 .image.centered {
     display: block;
     margin: 0 0 2em 0;
 }
+
 .image.centered img {
     margin: 0 auto;
     width: auto;
 }
 
-
 .newsimage {
-  height: auto;
-  width: 100%;
+    height: auto;
+    width: 100%;
 }
 
-
-
-.first p{
-  font-size: 17px;
+.first p {
+    font-size: 17px;
 }
 
-
-
-.first p:first-letter{
+.first p:first-letter {
     float: left;
     color: #CA3B44;
     font-size: 75px;
@@ -474,33 +531,27 @@ span.text-class span {
     text-transform: uppercase;
 }
 
-
 #HEIGHT_100,
-.sponsor-height
-{
-  height: 100px;
+.sponsor-height {
+    height: 100px;
 }
 
-
 #PADDING_TOP_100,
-.sponsor-container
-{
-  padding-top: 40px;
+.sponsor-container {
+    padding-top: 40px;
 }
 
 #EXTEND_MARGIN,
 .group-content,
-.vip-content
-{
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-left: 15px;
-  margin-right: 40px;
+.vip-content {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 15px;
+    margin-right: 40px;
 }
 
 #JUSTIFY_TEXT,
 .group-content,
-.vip-content
-{
-  text-align: justify;
+.vip-content {
+    text-align: justify;
 }

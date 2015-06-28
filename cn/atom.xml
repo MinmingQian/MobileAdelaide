@@ -4,13 +4,22 @@
  <title>Dynamism Dance</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-03-13T01:01:27+10:30</updated>
+ <updated>2015-06-28T09:51:40+09:30</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Name Lastname</name>
    <email>blah@email.test</email>
  </author>
 
+ 
+ <entry>
+   <title>fourth</title>
+   <link href="http://username.github.io/cn/2015/02/16/news-fourth"/>
+   <updated>2015-02-16T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2015/02/16/news-fourth</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>fourth</title>
@@ -34,15 +43,6 @@
  </entry>
  
  <entry>
-   <title>fourth</title>
-   <link href="http://username.github.io/cn/2015/02/16/news-fourth"/>
-   <updated>2015-02-16T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2015/02/16/news-fourth</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
    <title>fifth</title>
    <link href="http://username.github.io/2015/02/16/news-fifth"/>
    <updated>2015-02-16T00:00:00+10:30</updated>
@@ -62,15 +62,6 @@
  
  <entry>
    <title>This is the Third News</title>
-   <link href="http://username.github.io/2015/02/15/news-this-is-the-third-news"/>
-   <updated>2015-02-15T00:00:00+10:30</updated>
-   <id>http://username.github.io/2015/02/15/news-this-is-the-third-news</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>This is the Third News</title>
    <link href="http://username.github.io/cn/2015/02/15/news-this-is-the-third-news"/>
    <updated>2015-02-15T00:00:00+10:30</updated>
    <id>http://username.github.io/cn/2015/02/15/news-this-is-the-third-news</id>
@@ -79,10 +70,10 @@
  </entry>
  
  <entry>
-   <title>This is the newest news</title>
-   <link href="http://username.github.io/2015/02/15/news-this-is-the-newest-news"/>
+   <title>This is the Third News</title>
+   <link href="http://username.github.io/2015/02/15/news-this-is-the-third-news"/>
    <updated>2015-02-15T00:00:00+10:30</updated>
-   <id>http://username.github.io/2015/02/15/news-this-is-the-newest-news</id>
+   <id>http://username.github.io/2015/02/15/news-this-is-the-third-news</id>
    <content type="html">
 </content>
  </entry>
@@ -97,10 +88,10 @@
  </entry>
  
  <entry>
-   <title>This is the latest news</title>
-   <link href="http://username.github.io/2015/02/15/news-this-is-the-latest-news"/>
+   <title>This is the newest news</title>
+   <link href="http://username.github.io/2015/02/15/news-this-is-the-newest-news"/>
    <updated>2015-02-15T00:00:00+10:30</updated>
-   <id>http://username.github.io/2015/02/15/news-this-is-the-latest-news</id>
+   <id>http://username.github.io/2015/02/15/news-this-is-the-newest-news</id>
    <content type="html">
 </content>
  </entry>
@@ -115,10 +106,10 @@
  </entry>
  
  <entry>
-   <title>CCCSA</title>
-   <link href="http://username.github.io/2014/06/02/sponsor-cccsa"/>
-   <updated>2014-06-02T00:00:00+09:30</updated>
-   <id>http://username.github.io/2014/06/02/sponsor-cccsa</id>
+   <title>This is the latest news</title>
+   <link href="http://username.github.io/2015/02/15/news-this-is-the-latest-news"/>
+   <updated>2015-02-15T00:00:00+10:30</updated>
+   <id>http://username.github.io/2015/02/15/news-this-is-the-latest-news</id>
    <content type="html">
 </content>
  </entry>
@@ -128,6 +119,15 @@
    <link href="http://username.github.io/cn/2014/06/02/sponsor-cccsa"/>
    <updated>2014-06-02T00:00:00+09:30</updated>
    <id>http://username.github.io/cn/2014/06/02/sponsor-cccsa</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CCCSA</title>
+   <link href="http://username.github.io/2014/06/02/sponsor-cccsa"/>
+   <updated>2014-06-02T00:00:00+09:30</updated>
+   <id>http://username.github.io/2014/06/02/sponsor-cccsa</id>
    <content type="html">
 </content>
  </entry>
@@ -151,18 +151,6 @@
  </entry>
  
  <entry>
-   <title>The Mei* Contemporary Dance Group</title>
-   <link href="http://username.github.io/2014/04/01/group-the-mei-contemporary-dance-group"/>
-   <updated>2014-04-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/04/01/group-the-mei-contemporary-dance-group</id>
-   <content type="html">
-&lt;p&gt;The Mei* Contemporary Dance Group was founded to have young people at the core of dance production and performance, bringing together the country’s most prolific dance enthusiasts to provide them with a platform for artistic expression and communication. The cultural needs of viewers from all walks of society can be fulfilled via these young dancers’ creations that reflect the trends and characteristics of the modern era. Contemporary dance can be said to be an abstract art form, in which its sense of aesthetic, artistic concepts, dance structure, lexicon etc. are all distinctively different from that of traditional dance. Even so, different forms of dance all share one commonality: life. Essentially, all art comes from our daily lives. Connecting the lexicon common to traditional and contemporary dance, then reforming and combining the concepts and structures make the key point of the group’s future production.
-&lt;!--more--&gt;
-The localisation of dance culture lends itself to be a unique narrative of Australian and Chinese cultures. The vibrance and modernity of Adelaide expressed through the group’s creations showcase how we have come from a place of cultural clashes and confusions towards a stable self positioning, our pursuit of an “Australian flavour” in traditional and contemporary dance, our encouragement for local choreographers, our unique combining of contemporary dance concepts with east-west fusion traditional dance, reflecting its multicultural structure, providing a case for exploration in Chinese contemporary dance. The group’s practice of dance production uses a highly individualistic and modern form of expression to convey the culture of China. We focus on expressing the feelings of “us” and “them” through dance, utilising the relaxed work atmosphere of an overseas region, valuing the thoughts and feelings, pursuits and dreams harboured by the people of today, and seeking deeper meaning within local culture, basing our creations upon its many forms to fuse the east and the west, constructing “boundless” dance performance through an open state of cultural awareness, as the group becomes increasingly involved the building of local dance culture through artistic practice. The Mei* Contemporary Dance Group comprises of young artists in residence at its core working along with exceptional contemporary dance performers. All of our members are youth with a strong dedication to dance, and of course, against the backdrop of multicultural Australia, our dancers come from multicultural backgrounds, too. There are no borders, no nations in art, in dance, or between dancers. Our work is accomplished on the principles of originality and quality, with the characteristics of the modern era as the basis of our creativity, to produce performances which are close to life and reflective of the state of contemporary art, to establish a brand of international acclaim.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>梅*当代舞蹈团</title>
    <link href="http://username.github.io/cn/2014/04/01/group-the-mei-contemporary-dance-group"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
@@ -175,16 +163,14 @@ The localisation of dance culture lends itself to be a unique narrative of Austr
  </entry>
  
  <entry>
-   <title>The Dynamism Youth Dance Group</title>
-   <link href="http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group"/>
+   <title>The Mei* Contemporary Dance Group</title>
+   <link href="http://username.github.io/2014/04/01/group-the-mei-contemporary-dance-group"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</id>
+   <id>http://username.github.io/2014/04/01/group-the-mei-contemporary-dance-group</id>
    <content type="html">
-&lt;p&gt;Dance is an integrated art form, combining the physical, the artistic, the intellectual and the spiritual in one, and as such is an activity that is beneficial to all aspects of development in young people, as well as enriching their lives out of academic study. Dance education is unique in that its effect on primary and secondary school students cannot be provided through other subjects. For example, dance in primary education can contribute to character building, encouraging students to sense and express beauty. At the same time, teachers must seize the opportunity to appeal to students’ psychological needs via rewarding and appreciation, in order for dance to better exert its positive influence on their growth. Generally speaking, extensive use of dance in primary and secondary education would aid the physical and mental development of children and teens in every constructive way, as it is the ideal method in which students may learn to experience, recognise, understand, and convey the concept of beauty.
+&lt;p&gt;The Mei* Contemporary Dance Group was founded to have young people at the core of dance production and performance, bringing together the country’s most prolific dance enthusiasts to provide them with a platform for artistic expression and communication. The cultural needs of viewers from all walks of society can be fulfilled via these young dancers’ creations that reflect the trends and characteristics of the modern era. Contemporary dance can be said to be an abstract art form, in which its sense of aesthetic, artistic concepts, dance structure, lexicon etc. are all distinctively different from that of traditional dance. Even so, different forms of dance all share one commonality: life. Essentially, all art comes from our daily lives. Connecting the lexicon common to traditional and contemporary dance, then reforming and combining the concepts and structures make the key point of the group’s future production.
 &lt;!--more--&gt;
-Dance can improve fitness and correct bad posture, leading to coordination and grace in one’s movement. Dance training transforms students’ attitudes from passive to assertive, thus training their ability to self-discipline and strengthen willpower. School-aged children are at the stage of life where they are highly curious, active, driven to imitate and perform – traits which can all be fulfilled in a dance lesson. Dance performance requires students to use a high amount of energy, having to practice each move repeatedly, which makes it an activity requiring much hard work, thus, training students’ confidence and motivation to overcome difficulties. Dance also promotes the sense of team pride and honour. Children’s dance classes usually train as a large group initially, then forming set teams during rehearsal and performance. A successful performance is the result of everybody’s work, which gives all involved a sense of team spirit. This sense of team spirit acquired through dance may then be transferred upon the class and the school, perhaps even the culture, the country.&lt;/p&gt;
-
-&lt;p&gt;Because of the many educational roles of dance, we have founded the dance group to be one that is suitable for the developmental needs of primary and high school students, and deeply connected with all its aspects. While studying dance, students are also influenced and inspired by music, so it could be said that dance can also be used to explain music. Quoting famous Chinese musician Wu Zuqiang: “In a certain sense, in the art of dance, music is the voice of dance, while dance is the body of music. It is an artistic imagination’s product of perfection.”&lt;/p&gt;
+The localisation of dance culture lends itself to be a unique narrative of Australian and Chinese cultures. The vibrance and modernity of Adelaide expressed through the group’s creations showcase how we have come from a place of cultural clashes and confusions towards a stable self positioning, our pursuit of an “Australian flavour” in traditional and contemporary dance, our encouragement for local choreographers, our unique combining of contemporary dance concepts with east-west fusion traditional dance, reflecting its multicultural structure, providing a case for exploration in Chinese contemporary dance. The group’s practice of dance production uses a highly individualistic and modern form of expression to convey the culture of China. We focus on expressing the feelings of “us” and “them” through dance, utilising the relaxed work atmosphere of an overseas region, valuing the thoughts and feelings, pursuits and dreams harboured by the people of today, and seeking deeper meaning within local culture, basing our creations upon its many forms to fuse the east and the west, constructing “boundless” dance performance through an open state of cultural awareness, as the group becomes increasingly involved the building of local dance culture through artistic practice. The Mei* Contemporary Dance Group comprises of young artists in residence at its core working along with exceptional contemporary dance performers. All of our members are youth with a strong dedication to dance, and of course, against the backdrop of multicultural Australia, our dancers come from multicultural backgrounds, too. There are no borders, no nations in art, in dance, or between dancers. Our work is accomplished on the principles of originality and quality, with the characteristics of the modern era as the basis of our creativity, to produce performances which are close to life and reflective of the state of contemporary art, to establish a brand of international acclaim.&lt;/p&gt;
 </content>
  </entry>
  
@@ -210,14 +196,16 @@ Dance can improve fitness and correct bad posture, leading to coordination and g
  </entry>
  
  <entry>
-   <title>The Dynamism Contemporary Folk Orchestra</title>
-   <link href="http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
+   <title>The Dynamism Youth Dance Group</title>
+   <link href="http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra</id>
+   <id>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</id>
    <content type="html">
-&lt;p&gt;The Dynamism Contemporary Folk Orchestra is a Chinese-Western fusion ensemble combining Chinese traditional musical instruments and standard modern orchestral instruments, founded in February 2014. It is Adelaide’s youngest, largest, most complete contemporary folk musical ensemble. Our members are experienced hobbyists from all walks of life, including students, makeup artists, company directors and accountants, brought together by a mutual love of music. The orchestra has been known for its unique originality, the symphonic characteristics of repertoire choice, and high level of proficiency since its establishment. Most notably, the ensemble fuses local musical culture, Chinese traditional music, as well as sounds from different eras, regions and styles around the world, which serves as a dazzling proof of the musicians’ capability. Orchestra members utilise rest time to compose and rehearse a range of new works drawing strong influences from the local cultural, social and artistic atmosphere that shine through their superb performance techniques, and of course, their tireless pursuit for musical excellency.
+&lt;p&gt;Dance is an integrated art form, combining the physical, the artistic, the intellectual and the spiritual in one, and as such is an activity that is beneficial to all aspects of development in young people, as well as enriching their lives out of academic study. Dance education is unique in that its effect on primary and secondary school students cannot be provided through other subjects. For example, dance in primary education can contribute to character building, encouraging students to sense and express beauty. At the same time, teachers must seize the opportunity to appeal to students’ psychological needs via rewarding and appreciation, in order for dance to better exert its positive influence on their growth. Generally speaking, extensive use of dance in primary and secondary education would aid the physical and mental development of children and teens in every constructive way, as it is the ideal method in which students may learn to experience, recognise, understand, and convey the concept of beauty.
 &lt;!--more--&gt;
-The orchestra’s aims are to promote folk music culture and to explore contemporary music composition. The orchestra’s future plans include continued rehearsal of classical and contemporary works by Chinese and Western composers, while members will also write new pieces in which they present brave ideas and individual expression, combining elements of traditional Chinese culture, folk culture and a global vision in the context of composition, restructuring the modern perspective of unification of multiculturalism. Composition techniques are inventively modified and innovated from the traditional chamber music format, breaking the barriers between the traditional and the modern, the elegant and the down-to-earth, the east and the west. The musical styles of minority ethnic groups, folk art and contemporary sounds are combined perfectly in rich expressions of cultural character.&lt;/p&gt;
+Dance can improve fitness and correct bad posture, leading to coordination and grace in one’s movement. Dance training transforms students’ attitudes from passive to assertive, thus training their ability to self-discipline and strengthen willpower. School-aged children are at the stage of life where they are highly curious, active, driven to imitate and perform – traits which can all be fulfilled in a dance lesson. Dance performance requires students to use a high amount of energy, having to practice each move repeatedly, which makes it an activity requiring much hard work, thus, training students’ confidence and motivation to overcome difficulties. Dance also promotes the sense of team pride and honour. Children’s dance classes usually train as a large group initially, then forming set teams during rehearsal and performance. A successful performance is the result of everybody’s work, which gives all involved a sense of team spirit. This sense of team spirit acquired through dance may then be transferred upon the class and the school, perhaps even the culture, the country.&lt;/p&gt;
+
+&lt;p&gt;Because of the many educational roles of dance, we have founded the dance group to be one that is suitable for the developmental needs of primary and high school students, and deeply connected with all its aspects. While studying dance, students are also influenced and inspired by music, so it could be said that dance can also be used to explain music. Quoting famous Chinese musician Wu Zuqiang: “In a certain sense, in the art of dance, music is the voice of dance, while dance is the body of music. It is an artistic imagination’s product of perfection.”&lt;/p&gt;
 </content>
  </entry>
  
@@ -236,18 +224,14 @@ The orchestra’s aims are to promote folk music culture and to explore contempo
  </entry>
  
  <entry>
-   <title>Mei's Dance Group</title>
-   <link href="http://username.github.io/2014/04/01/group-mei"/>
+   <title>The Dynamism Contemporary Folk Orchestra</title>
+   <link href="http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/04/01/group-mei</id>
+   <id>http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra</id>
    <content type="html">
-&lt;p&gt;The Mei’s Dance Group is South Australia’s first dance group to combine eastern and western cultural elements, incorporating Chinese flavours upon the original framework of Mei’s Dance Company, founded in February 2014 after a long effort owing to the enthusiasm of head of company Qingmei Zhou.&lt;/p&gt;
-
-&lt;p&gt;The establishment of the group gives the multicultural city of Adelaide a brand new taste of China, enriching the lives of members of the local Chinese community, as well as providing people of other nationalities and cultures in Australia with the opportunity to enjoy the art of the orient.
+&lt;p&gt;The Dynamism Contemporary Folk Orchestra is a Chinese-Western fusion ensemble combining Chinese traditional musical instruments and standard modern orchestral instruments, founded in February 2014. It is Adelaide’s youngest, largest, most complete contemporary folk musical ensemble. Our members are experienced hobbyists from all walks of life, including students, makeup artists, company directors and accountants, brought together by a mutual love of music. The orchestra has been known for its unique originality, the symphonic characteristics of repertoire choice, and high level of proficiency since its establishment. Most notably, the ensemble fuses local musical culture, Chinese traditional music, as well as sounds from different eras, regions and styles around the world, which serves as a dazzling proof of the musicians’ capability. Orchestra members utilise rest time to compose and rehearse a range of new works drawing strong influences from the local cultural, social and artistic atmosphere that shine through their superb performance techniques, and of course, their tireless pursuit for musical excellency.
 &lt;!--more--&gt;
-Each group that branches from Mei’s Dance Group aims to deliver the most unique representations of Chinese and Australian culture in folk and contemporary dance creations, determined to maintain high standards of professional quality at international levels. The group draws influences from a variety of artistic presentation forms, studies and explores the connections between traditional and modern Chinese culture while taking inspiration from modern western arts. Our working mission is to promote the dance culture of the two nations, service the multicultural arts community, and create art to face international acclaim. Our artistic mission is to spread the influence of oriental art, further cultural exchange, enrich culture and life, and improve health and fitness in communities. The group’s unique training style involves basic dance skills training, group training, as well as choreographing of various dance styles inspired by both Chinese and Australian cultural and artistic elements. We support the promotion of the art of contemporary dance, encourage those with a passion for dance to undergo a well and truly cutting edge dance experience, with a working aim to discover and train the group’s very own talents of world class potential, raise awareness and appreciation of the art of dance among the wider population, to our friends from all walks of life, uniting us in our contribution to cultural and artistic exchange between the two nations.&lt;/p&gt;
-
-&lt;p&gt;The Mei’s Dance Group has bred the following creative and cultural industries brands: the Mei* Contemporary Dance Group, the Dynamism Youth Dance Group, and the Dynamism Contemporary Folk Orchestra.&lt;/p&gt;
+The orchestra’s aims are to promote folk music culture and to explore contemporary music composition. The orchestra’s future plans include continued rehearsal of classical and contemporary works by Chinese and Western composers, while members will also write new pieces in which they present brave ideas and individual expression, combining elements of traditional Chinese culture, folk culture and a global vision in the context of composition, restructuring the modern perspective of unification of multiculturalism. Composition techniques are inventively modified and innovated from the traditional chamber music format, breaking the barriers between the traditional and the modern, the elegant and the down-to-earth, the east and the west. The musical styles of minority ethnic groups, folk art and contemporary sounds are combined perfectly in rich expressions of cultural character.&lt;/p&gt;
 </content>
  </entry>
  
@@ -263,6 +247,22 @@ Each group that branches from Mei’s Dance Group aims to deliver the most uniqu
 &lt;!--more--&gt;
 艺术团下属的所有舞蹈团以创作最具有中澳两国特色的、传统的、民间民族舞蹈艺术和当代舞蹈为目标，立志做高素质、高标准、与国际接轨的专业舞蹈团体，兼收并蓄各类艺术表现形式，以中国灿烂辉煌的民族文化为背景，研究探索民族传统文化与现代文化的结合与传承，借鉴西方现代艺术的表现形式，本着“传播两国舞蹈艺术文化、服务多元艺术文化、创作舞蹈艺术面向国际”的工作宗旨, 有着弘扬东方艺术，促进中澳交流，丰富文化生活,健美健身保青春的艺术宗旨。艺术团的舞蹈风格训练方式以舞蹈基本功训练、舞蹈组合训练、编排各种不同风格不同民族同时融入两国艺术文化的舞蹈成品. 普及现代舞蹈流行艺术；让热爱舞蹈艺术的人们能真正接触到与世界同步的前沿流行舞蹈艺术；挖掘、培养出舞团自己的具有世界级流行潜质的舞蹈艺术人才；提高人民的舞美艺术素质修养与审美意识，给各界朋友带来美的感受，共同为两国的艺术文化传播和交流做出我们的贡献.
 华夏君之梅舞蹈艺术团孕育了创意文化产业品牌 – 梅*当代舞蹈团、活力青少年舞蹈团、活力现代民族乐团。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mei's Dance Group</title>
+   <link href="http://username.github.io/2014/04/01/group-mei"/>
+   <updated>2014-04-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/04/01/group-mei</id>
+   <content type="html">
+&lt;p&gt;The Mei’s Dance Group is South Australia’s first dance group to combine eastern and western cultural elements, incorporating Chinese flavours upon the original framework of Mei’s Dance Company, founded in February 2014 after a long effort owing to the enthusiasm of head of company Qingmei Zhou.&lt;/p&gt;
+
+&lt;p&gt;The establishment of the group gives the multicultural city of Adelaide a brand new taste of China, enriching the lives of members of the local Chinese community, as well as providing people of other nationalities and cultures in Australia with the opportunity to enjoy the art of the orient.
+&lt;!--more--&gt;
+Each group that branches from Mei’s Dance Group aims to deliver the most unique representations of Chinese and Australian culture in folk and contemporary dance creations, determined to maintain high standards of professional quality at international levels. The group draws influences from a variety of artistic presentation forms, studies and explores the connections between traditional and modern Chinese culture while taking inspiration from modern western arts. Our working mission is to promote the dance culture of the two nations, service the multicultural arts community, and create art to face international acclaim. Our artistic mission is to spread the influence of oriental art, further cultural exchange, enrich culture and life, and improve health and fitness in communities. The group’s unique training style involves basic dance skills training, group training, as well as choreographing of various dance styles inspired by both Chinese and Australian cultural and artistic elements. We support the promotion of the art of contemporary dance, encourage those with a passion for dance to undergo a well and truly cutting edge dance experience, with a working aim to discover and train the group’s very own talents of world class potential, raise awareness and appreciation of the art of dance among the wider population, to our friends from all walks of life, uniting us in our contribution to cultural and artistic exchange between the two nations.&lt;/p&gt;
+
+&lt;p&gt;The Mei’s Dance Group has bred the following creative and cultural industries brands: the Mei* Contemporary Dance Group, the Dynamism Youth Dance Group, and the Dynamism Contemporary Folk Orchestra.&lt;/p&gt;
 </content>
  </entry>
  
@@ -326,10 +326,66 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
  </entry>
  
  <entry>
-   <title>周庆梅</title>
-   <link href="http://username.github.io/cn/2014/03/01/vip-qingmei-zhou"/>
+   <title>Yue Zhou</title>
+   <link href="http://username.github.io/cn/2014/03/01/vip-yue-zhou"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/vip-qingmei-zhou</id>
+   <id>http://username.github.io/cn/2014/03/01/vip-yue-zhou</id>
+   <content type="html">
+&lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
+
+&lt;p&gt;During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. &lt;/p&gt;
+
+&lt;p&gt;If my study of dance in China can be counted as accumulation of experience, then my studies here in the capital city of South Australia would be improvement of practice. Moving from Chinese traditional dance to contemporary Western dance offered me the opportunity for a giant leap in my dance career. Through my transition from the Chinese traditional system of education to a much more liberal, self-directed education format, I gradually learnt to regulate my ability to adjust. And through the clashes between the differing dance cultures of Australia and China, I learnt of each of their most treasurable essences, witnessing first-hand the brilliance of each country’s artistic vocabulary. This provided me with abundant information to further cultural exchange between the two nations in future, and also gave me a solid foundation for later work.&lt;/p&gt;
+
+&lt;p&gt;I am an easy-going, cheerful and generous person. To be modest and a good listener, and to learn and grow is my motto. Outside of work, I enjoy chatting with my friends over a coffee or a meal. Of course, in multicultural Australia, I have friends from a variety of cultural backgrounds, since I like to make friends from different work environments and upbringings, and see it as a way of learning. Although I have lived in Adelaide for over a decade, I have always upheld my career and personal ethos, “three nos, three yeses” form my basic principles:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;I will NOT give up my dedication and passion for dance due to changes in my environment.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up determination to achieve my dreams because of temporary difficulties.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up my faith and confidence in my goals because of setbacks from failure.&lt;/li&gt;
+	&lt;li&gt;I am honest in my approaches towards others, and will cut off relations with those who have no morals, or are habitual liars.&lt;/li&gt;
+	&lt;li&gt;I am a trustworthy person, who would always face my friends with a tolerant and respectful attitude, while people who are cunning and selfish will never be in my circle of friends.&lt;/li&gt;
+	&lt;li&gt;I understand the importance of being thankful; I am thankful for that my parents have raised me and that my family have always supported me, thankful for all of my friends who have helped me in the past and present.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since my mother was performing on stage while pregnant with a three-month-old me, fate has decided that I live to dance! To me, dance isn’t as simple as just moving my arms and legs, or repeating cycles of work, performance and skills training. Dance is the driving force of life flowing in my blood, the hardship and determination all along my road to today, the sheer happiness of producing a successful piece of work after gathering experience from having choreographed countless failed works. Dance is my eternal thanks to my mother for what she gave to me and my career, my endless memories of my father, the definitive positioning of my future career target!&lt;/p&gt;
+
+&lt;p&gt;Once again, I would like to give thanks to my mother for fostering my career as a dance artist, to my father for encouraging me to be an all-rounded high achiever, to all of my teachers who had mentored me, to all of my friends who have given me their help and support.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Yue Zhou</title>
+   <link href="http://username.github.io/2014/03/01/vip-yue-zhou"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/03/01/vip-yue-zhou</id>
+   <content type="html">
+&lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
+
+&lt;p&gt;During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. &lt;/p&gt;
+
+&lt;p&gt;If my study of dance in China can be counted as accumulation of experience, then my studies here in the capital city of South Australia would be improvement of practice. Moving from Chinese traditional dance to contemporary Western dance offered me the opportunity for a giant leap in my dance career. Through my transition from the Chinese traditional system of education to a much more liberal, self-directed education format, I gradually learnt to regulate my ability to adjust. And through the clashes between the differing dance cultures of Australia and China, I learnt of each of their most treasurable essences, witnessing first-hand the brilliance of each country’s artistic vocabulary. This provided me with abundant information to further cultural exchange between the two nations in future, and also gave me a solid foundation for later work.&lt;/p&gt;
+
+&lt;p&gt;I am an easy-going, cheerful and generous person. To be modest and a good listener, and to learn and grow is my motto. Outside of work, I enjoy chatting with my friends over a coffee or a meal. Of course, in multicultural Australia, I have friends from a variety of cultural backgrounds, since I like to make friends from different work environments and upbringings, and see it as a way of learning. Although I have lived in Adelaide for over a decade, I have always upheld my career and personal ethos, “three nos, three yeses” form my basic principles:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;I will NOT give up my dedication and passion for dance due to changes in my environment.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up determination to achieve my dreams because of temporary difficulties.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up my faith and confidence in my goals because of setbacks from failure.&lt;/li&gt;
+	&lt;li&gt;I am honest in my approaches towards others, and will cut off relations with those who have no morals, or are habitual liars.&lt;/li&gt;
+	&lt;li&gt;I am a trustworthy person, who would always face my friends with a tolerant and respectful attitude, while people who are cunning and selfish will never be in my circle of friends.&lt;/li&gt;
+	&lt;li&gt;I understand the importance of being thankful; I am thankful for that my parents have raised me and that my family have always supported me, thankful for all of my friends who have helped me in the past and present.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since my mother was performing on stage while pregnant with a three-month-old me, fate has decided that I live to dance! To me, dance isn’t as simple as just moving my arms and legs, or repeating cycles of work, performance and skills training. Dance is the driving force of life flowing in my blood, the hardship and determination all along my road to today, the sheer happiness of producing a successful piece of work after gathering experience from having choreographed countless failed works. Dance is my eternal thanks to my mother for what she gave to me and my career, my endless memories of my father, the definitive positioning of my future career target!&lt;/p&gt;
+
+&lt;p&gt;Once again, I would like to give thanks to my mother for fostering my career as a dance artist, to my father for encouraging me to be an all-rounded high achiever, to all of my teachers who had mentored me, to all of my friends who have given me their help and support.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>周庆梅</title>
+   <link href="http://username.github.io/cn/2014/03/01/vip-yang-lu"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/vip-yang-lu</id>
    <content type="html">
 &lt;p&gt;创办人Q.M Zhou是一位专业的舞蹈演员兼舞蹈编导，在母亲这位舞蹈教授的熏陶下，自幼在中国接受了系统的专业训练 - 中国古典舞和中国民族民间舞，芭蕾舞，曾经就读北京舞蹈学院社交系专修国际标准舞，在阿德莱德艺术技术学院学习当代舞蹈，同时也是在阿德莱德华人中一位拥有舞蹈双学位的华人专业舞蹈编导。
 之前十几年的学习舞蹈过程里我大部分的时间和精力都给了舞蹈事业，付出总有回报的时候，加上母亲一路上的扶持，让我在舞蹈领域里如鱼得水，而且在各种舞蹈比赛里得过无数的奖励，其中大部分是母亲编导的作品。在中国式的舞蹈演出和编舞历练期间我从中得到了宝贵的教学经验和舞台经验，在舞台上演出时不管是自己编导的舞蹈作品还是演示他人的舞蹈作品，都让我用心去完成，不能有丝毫的失误和偏差，尽量做到最完美，有时为了编排一个作品甚至和母亲争执到脸红脖子粗，到最后还要和母亲说对不起，即使是我没有错…..这就是我Q M Zhou. &lt;/p&gt;
@@ -353,10 +409,66 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
  </entry>
  
  <entry>
-   <title>Qingmei Zhou</title>
-   <link href="http://username.github.io/2014/03/01/vip-qingmei-zhou"/>
+   <title>Yang Lu</title>
+   <link href="http://username.github.io/2014/03/01/vip-yang-lu"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/vip-qingmei-zhou</id>
+   <id>http://username.github.io/2014/03/01/vip-yang-lu</id>
+   <content type="html">
+&lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
+
+&lt;p&gt;During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. &lt;/p&gt;
+
+&lt;p&gt;If my study of dance in China can be counted as accumulation of experience, then my studies here in the capital city of South Australia would be improvement of practice. Moving from Chinese traditional dance to contemporary Western dance offered me the opportunity for a giant leap in my dance career. Through my transition from the Chinese traditional system of education to a much more liberal, self-directed education format, I gradually learnt to regulate my ability to adjust. And through the clashes between the differing dance cultures of Australia and China, I learnt of each of their most treasurable essences, witnessing first-hand the brilliance of each country’s artistic vocabulary. This provided me with abundant information to further cultural exchange between the two nations in future, and also gave me a solid foundation for later work.&lt;/p&gt;
+
+&lt;p&gt;I am an easy-going, cheerful and generous person. To be modest and a good listener, and to learn and grow is my motto. Outside of work, I enjoy chatting with my friends over a coffee or a meal. Of course, in multicultural Australia, I have friends from a variety of cultural backgrounds, since I like to make friends from different work environments and upbringings, and see it as a way of learning. Although I have lived in Adelaide for over a decade, I have always upheld my career and personal ethos, “three nos, three yeses” form my basic principles:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;I will NOT give up my dedication and passion for dance due to changes in my environment.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up determination to achieve my dreams because of temporary difficulties.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up my faith and confidence in my goals because of setbacks from failure.&lt;/li&gt;
+	&lt;li&gt;I am honest in my approaches towards others, and will cut off relations with those who have no morals, or are habitual liars.&lt;/li&gt;
+	&lt;li&gt;I am a trustworthy person, who would always face my friends with a tolerant and respectful attitude, while people who are cunning and selfish will never be in my circle of friends.&lt;/li&gt;
+	&lt;li&gt;I understand the importance of being thankful; I am thankful for that my parents have raised me and that my family have always supported me, thankful for all of my friends who have helped me in the past and present.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since my mother was performing on stage while pregnant with a three-month-old me, fate has decided that I live to dance! To me, dance isn’t as simple as just moving my arms and legs, or repeating cycles of work, performance and skills training. Dance is the driving force of life flowing in my blood, the hardship and determination all along my road to today, the sheer happiness of producing a successful piece of work after gathering experience from having choreographed countless failed works. Dance is my eternal thanks to my mother for what she gave to me and my career, my endless memories of my father, the definitive positioning of my future career target!&lt;/p&gt;
+
+&lt;p&gt;Once again, I would like to give thanks to my mother for fostering my career as a dance artist, to my father for encouraging me to be an all-rounded high achiever, to all of my teachers who had mentored me, to all of my friends who have given me their help and support.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Minming Qian</title>
+   <link href="http://username.github.io/2014/03/01/vip-minming-qian"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/03/01/vip-minming-qian</id>
+   <content type="html">
+&lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
+
+&lt;p&gt;During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. &lt;/p&gt;
+
+&lt;p&gt;If my study of dance in China can be counted as accumulation of experience, then my studies here in the capital city of South Australia would be improvement of practice. Moving from Chinese traditional dance to contemporary Western dance offered me the opportunity for a giant leap in my dance career. Through my transition from the Chinese traditional system of education to a much more liberal, self-directed education format, I gradually learnt to regulate my ability to adjust. And through the clashes between the differing dance cultures of Australia and China, I learnt of each of their most treasurable essences, witnessing first-hand the brilliance of each country’s artistic vocabulary. This provided me with abundant information to further cultural exchange between the two nations in future, and also gave me a solid foundation for later work.&lt;/p&gt;
+
+&lt;p&gt;I am an easy-going, cheerful and generous person. To be modest and a good listener, and to learn and grow is my motto. Outside of work, I enjoy chatting with my friends over a coffee or a meal. Of course, in multicultural Australia, I have friends from a variety of cultural backgrounds, since I like to make friends from different work environments and upbringings, and see it as a way of learning. Although I have lived in Adelaide for over a decade, I have always upheld my career and personal ethos, “three nos, three yeses” form my basic principles:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;I will NOT give up my dedication and passion for dance due to changes in my environment.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up determination to achieve my dreams because of temporary difficulties.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up my faith and confidence in my goals because of setbacks from failure.&lt;/li&gt;
+	&lt;li&gt;I am honest in my approaches towards others, and will cut off relations with those who have no morals, or are habitual liars.&lt;/li&gt;
+	&lt;li&gt;I am a trustworthy person, who would always face my friends with a tolerant and respectful attitude, while people who are cunning and selfish will never be in my circle of friends.&lt;/li&gt;
+	&lt;li&gt;I understand the importance of being thankful; I am thankful for that my parents have raised me and that my family have always supported me, thankful for all of my friends who have helped me in the past and present.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since my mother was performing on stage while pregnant with a three-month-old me, fate has decided that I live to dance! To me, dance isn’t as simple as just moving my arms and legs, or repeating cycles of work, performance and skills training. Dance is the driving force of life flowing in my blood, the hardship and determination all along my road to today, the sheer happiness of producing a successful piece of work after gathering experience from having choreographed countless failed works. Dance is my eternal thanks to my mother for what she gave to me and my career, my endless memories of my father, the definitive positioning of my future career target!&lt;/p&gt;
+
+&lt;p&gt;Once again, I would like to give thanks to my mother for fostering my career as a dance artist, to my father for encouraging me to be an all-rounded high achiever, to all of my teachers who had mentored me, to all of my friends who have given me their help and support.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Minming Qian</title>
+   <link href="http://username.github.io/cn/2014/03/01/vip-minming-qian"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/vip-minming-qian</id>
    <content type="html">
 &lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
 
@@ -382,9 +494,9 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
  
  <entry>
    <title>耿惠君</title>
-   <link href="http://username.github.io/cn/2014/03/01/vip-huijun-geng"/>
+   <link href="http://username.github.io/cn/2014/03/01/vip-guangyang-qi"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/vip-huijun-geng</id>
+   <id>http://username.github.io/cn/2014/03/01/vip-guangyang-qi</id>
    <content type="html">
 &lt;h3 id=&quot;section&quot;&gt;介绍：&lt;/h3&gt;
 
@@ -421,10 +533,10 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
  </entry>
  
  <entry>
-   <title>Huijun Geng</title>
-   <link href="http://username.github.io/2014/03/01/vip-huijun-geng"/>
+   <title>Guangyang Qi</title>
+   <link href="http://username.github.io/2014/03/01/vip-guangyang-qi"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/vip-huijun-geng</id>
+   <id>http://username.github.io/2014/03/01/vip-guangyang-qi</id>
    <content type="html">
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
 &lt;p&gt;Huijun Geng has an exceptionally enthusiastic and persistent attitude towards her dance career. Meticulous and dedicated in her creative work, she is honest, kind, and humorous in her personal life. Having been professionally trained and embracing her love for dance since a young age, the evidence is apparent through her determined pursuit and diligent research into the dance programs she has choreographed. From performer to choreographer, the 40 years of her career has been inundated with an entire life of experience and effort, and has given outstanding contributions to Shandong’s dance and cultural enterprises.&lt;/p&gt;
@@ -458,6 +570,19 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
  </entry>
  
  <entry>
+   <title>郭燕</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-yan-guo"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/people-yan-guo</id>
+   <content type="html">
+&lt;p&gt;（华夏君梅艺术团宣传策划主管）
+毕业于南京师范学院中文系及阿德莱德大学亚洲中心，分别获汉语言文学学士学位及亚洲研究荣誉学位。
+出版有小说及散文集若干。
+有多年从事文化活动宣传策划的经历，曾参与组织各种文艺演出、语言比赛及文化宣传活动，有丰富的组织策划各类文化活动的经验。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Yan Guo</title>
    <link href="http://username.github.io/2014/03/01/people-yan-guo"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -468,19 +593,6 @@ Graduated from Nanjing Normal University and the Centre for Asian Studies at the
 Published novels and prose.
 Has many years of experience in promotion of cultural activities. Participated in the organizations of various performances, language competitions and cultural promotion events, with strong expertise in the field of cultural event organization and planning.
 Guo’s position in the group is of no relation to her position at her current workplace, and was in accordance with her own will.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>郭燕</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-yan-guo"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-yan-guo</id>
-   <content type="html">
-&lt;p&gt;（华夏君梅艺术团宣传策划主管）
-毕业于南京师范学院中文系及阿德莱德大学亚洲中心，分别获汉语言文学学士学位及亚洲研究荣誉学位。
-出版有小说及散文集若干。
-有多年从事文化活动宣传策划的经历，曾参与组织各种文艺演出、语言比赛及文化宣传活动，有丰富的组织策划各类文化活动的经验。&lt;/p&gt;
 </content>
  </entry>
  
@@ -571,22 +683,6 @@ Dance, Photography, Animation, Painting&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Mobo Gao</title>
-   <link href="http://username.github.io/2014/03/01/people-mobo-gao"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-mobo-gao</id>
-   <content type="html">
-&lt;p&gt;Gao Mobo (Honorary dean、language and culture consultant) 
-Professor Gao currently teaches Chinese at the Center for Asian Studies at the University of Adelaide, and dean of the University’s Confucius Institute.
-Professor Gao studied in the UK, where he worked for eight years, and later worked at Griffith University in Queensland and taught at the University of Tasmania. In 2008 he was appointed Professor of Chinese Studies at the University of Adelaide.
-His English books include: “Gao Village,” “Mandarin Chinese: An Introduction”, “A Reference to Mandarin Chinese”, and “The Battle for China’s Past: Mao and the Cultural Revolution”. In particular, the books “Gao Village” and “The Battle” led him to become a renowned scholar worldwide.
-Gao said on academic success that “success is but an experience”, that he never considered if the path he had taken has reached the goal of success, and that as long as one does the things they want to do, it is enough. He never did research to catch the trend or for the sake of research. He even said modestly that his luck was good, that he came across opportunities as well as grasped them. Now, Gao just thinks that the time he has is not enough, as there are many plans to carry out, which need time and energy to be invested.
-As dean of the Confucius Institute, Professor Gao put a lot of effort into the promotion of the Chinese language and cultural exchange in South Australia.
-Professor Gao’s position in the group is of no relation to his position at his current workplace, and was in accordance with his own will.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>高默波</title>
    <link href="http://username.github.io/cn/2014/03/01/people-mobo-gao"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -603,15 +699,18 @@ Professor Gao’s position in the group is of no relation to his position at his
  </entry>
  
  <entry>
-   <title>施国华</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-k-see"/>
+   <title>Mobo Gao</title>
+   <link href="http://username.github.io/2014/03/01/people-mobo-gao"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-k-see</id>
+   <id>http://username.github.io/2014/03/01/people-mobo-gao</id>
    <content type="html">
-&lt;p&gt;名誉团长及文化、旅游、商业顾问
-施先生是中华总商会现任会长、南澳华人福利会副会长、南澳商展促进部特任大使、施兄弟海鲜公司的总经理。这些年的发展有目共睹，对中华总商会施先生倾注了大量的时间和感情，近几年商会的发展迅速活动频繁，他经常要放弃自己的生意和时间去参加和组织商会的各种活动，他说自己是个普通的商人，但热衷于社团的建设发展，热心于华人的事业发展，所以他会花费自己的时间精力、财力物力放在社会活动中。在施先生的领导下总商会致力推动南澳和中国的商贸往来和文化传播。
-对于南澳未来的展示，施先生充满了期待和憧憬，他说：“谁都知道做社团难做，我也深有体会，但是即使难做我也会坚持下去，我们华人不是爱说‘取之社会，用之社会’吗？”
-融入华夏君梅艺术团很荣幸，能为华人的文化生活和文化传播做些工作也是一种荣誉，同时把两国的舞蹈文化艺术互相传播和互相融合创作是艺术团未来的计划和大胆尝试，衷心希望华夏君梅艺术团前途无量！&lt;/p&gt;
+&lt;p&gt;Gao Mobo (Honorary dean、language and culture consultant) 
+Professor Gao currently teaches Chinese at the Center for Asian Studies at the University of Adelaide, and dean of the University’s Confucius Institute.
+Professor Gao studied in the UK, where he worked for eight years, and later worked at Griffith University in Queensland and taught at the University of Tasmania. In 2008 he was appointed Professor of Chinese Studies at the University of Adelaide.
+His English books include: “Gao Village,” “Mandarin Chinese: An Introduction”, “A Reference to Mandarin Chinese”, and “The Battle for China’s Past: Mao and the Cultural Revolution”. In particular, the books “Gao Village” and “The Battle” led him to become a renowned scholar worldwide.
+Gao said on academic success that “success is but an experience”, that he never considered if the path he had taken has reached the goal of success, and that as long as one does the things they want to do, it is enough. He never did research to catch the trend or for the sake of research. He even said modestly that his luck was good, that he came across opportunities as well as grasped them. Now, Gao just thinks that the time he has is not enough, as there are many plans to carry out, which need time and energy to be invested.
+As dean of the Confucius Institute, Professor Gao put a lot of effort into the promotion of the Chinese language and cultural exchange in South Australia.
+Professor Gao’s position in the group is of no relation to his position at his current workplace, and was in accordance with his own will.&lt;/p&gt;
 </content>
  </entry>
  
@@ -627,6 +726,19 @@ See is full of anticipation and longing when it comes to South Australia’s fut
 See is honoured to be a part of the troupe, honoured to be able to work for the cultural life and cultural promotion of the Chinese community, especially while the fusion of the two countries’ dance culture is the troupe’s future plan and a brave attempt. He sincerely wishes the troupe a promising future.&lt;/p&gt;
 
 &lt;p&gt;Kok Wah See position in the group is of no relation to his position at his current workplace, and was in accordance with his own will.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>施国华</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-k-see"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/people-k-see</id>
+   <content type="html">
+&lt;p&gt;名誉团长及文化、旅游、商业顾问
+施先生是中华总商会现任会长、南澳华人福利会副会长、南澳商展促进部特任大使、施兄弟海鲜公司的总经理。这些年的发展有目共睹，对中华总商会施先生倾注了大量的时间和感情，近几年商会的发展迅速活动频繁，他经常要放弃自己的生意和时间去参加和组织商会的各种活动，他说自己是个普通的商人，但热衷于社团的建设发展，热心于华人的事业发展，所以他会花费自己的时间精力、财力物力放在社会活动中。在施先生的领导下总商会致力推动南澳和中国的商贸往来和文化传播。
+对于南澳未来的展示，施先生充满了期待和憧憬，他说：“谁都知道做社团难做，我也深有体会，但是即使难做我也会坚持下去，我们华人不是爱说‘取之社会，用之社会’吗？”
+融入华夏君梅艺术团很荣幸，能为华人的文化生活和文化传播做些工作也是一种荣誉，同时把两国的舞蹈文化艺术互相传播和互相融合创作是艺术团未来的计划和大胆尝试，衷心希望华夏君梅艺术团前途无量！&lt;/p&gt;
 </content>
  </entry>
  
@@ -687,9 +799,9 @@ You will have the chance to see her makeup style in this group’s future perfor
  
  <entry>
    <title>Fork Dance</title>
-   <link href="http://username.github.io/2014/02/07/class-name"/>
+   <link href="http://username.github.io/cn/2014/02/07/class-name"/>
    <updated>2014-02-07T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/02/07/class-name</id>
+   <id>http://username.github.io/cn/2014/02/07/class-name</id>
    <content type="html">
 &lt;div class=&quot;content-wrapper&quot;&gt;
 	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
@@ -697,7 +809,7 @@ You will have the chance to see her makeup style in this group’s future perfor
 		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
 		&lt;div class=&quot;col-lg-12&quot;&gt;
 		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
-			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
+			这是中文页面。
 		&lt;/div&gt;
 		&lt;div class=&quot;col-lg-3&quot;&gt;
 			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
@@ -710,9 +822,9 @@ You will have the chance to see her makeup style in this group’s future perfor
  
  <entry>
    <title>Fork Dance</title>
-   <link href="http://username.github.io/cn/2014/02/07/class-name"/>
+   <link href="http://username.github.io/2014/02/07/class-name"/>
    <updated>2014-02-07T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/02/07/class-name</id>
+   <id>http://username.github.io/2014/02/07/class-name</id>
    <content type="html">
 &lt;div class=&quot;content-wrapper&quot;&gt;
 	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
@@ -720,7 +832,7 @@ You will have the chance to see her makeup style in this group’s future perfor
 		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
 		&lt;div class=&quot;col-lg-12&quot;&gt;
 		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
-			这是中文页面。
+			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
 		&lt;/div&gt;
 		&lt;div class=&quot;col-lg-3&quot;&gt;
 			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
@@ -751,15 +863,6 @@ You will have the chance to see her makeup style in this group’s future perfor
  
  <entry>
    <title>carousel3</title>
-   <link href="http://username.github.io/cn/2014/01/01/carousel-carousel3"/>
-   <updated>2014-01-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/01/01/carousel-carousel3</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>carousel3</title>
    <link href="http://username.github.io/2014/01/01/carousel-carousel3"/>
    <updated>2014-01-01T00:00:00+10:30</updated>
    <id>http://username.github.io/2014/01/01/carousel-carousel3</id>
@@ -768,10 +871,10 @@ You will have the chance to see her makeup style in this group’s future perfor
  </entry>
  
  <entry>
-   <title>carousel2</title>
-   <link href="http://username.github.io/2014/01/01/carousel-carousel2"/>
+   <title>carousel3</title>
+   <link href="http://username.github.io/cn/2014/01/01/carousel-carousel3"/>
    <updated>2014-01-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/01/01/carousel-carousel2</id>
+   <id>http://username.github.io/cn/2014/01/01/carousel-carousel3</id>
    <content type="html">
 </content>
  </entry>
@@ -781,6 +884,15 @@ You will have the chance to see her makeup style in this group’s future perfor
    <link href="http://username.github.io/cn/2014/01/01/carousel-carousel2"/>
    <updated>2014-01-01T00:00:00+10:30</updated>
    <id>http://username.github.io/cn/2014/01/01/carousel-carousel2</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>carousel2</title>
+   <link href="http://username.github.io/2014/01/01/carousel-carousel2"/>
+   <updated>2014-01-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/01/01/carousel-carousel2</id>
    <content type="html">
 </content>
  </entry>
